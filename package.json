@@ -1,19 +1,19 @@
 {
-  "name": "timeinbinary",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/seattletravis/timeinbinary.git"
-  },
-  "author": "Travis Lamberte",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/seattletravis/timeinbinary/issues"
-  },
-  "homepage": "https://github.com/seattletravis/timeinbinary#readme"
+	"name": "timeinbinary",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/seattletravis/TimeInBinary.git"
+	},
+	"author": "Travis Lamberte",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/seattletravis/TimeInBinary/issues"
+	},
+	"homepage": "https://github.com/seattletravis/TimeInBinary#readme"
 }
